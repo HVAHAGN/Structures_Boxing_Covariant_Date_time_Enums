@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing_02", "Boxing_02\Boxi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing_03", "Boxing_03\Boxing_03.csproj", "{CED29CAC-F721-4890-A257-B378A7F91C19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariant_04", "Covariant_04\Covariant_04.csproj", "{C913F27F-2FE5-46F7-96EB-3BD848C3AA1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CED29CAC-F721-4890-A257-B378A7F91C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CED29CAC-F721-4890-A257-B378A7F91C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CED29CAC-F721-4890-A257-B378A7F91C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C913F27F-2FE5-46F7-96EB-3BD848C3AA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C913F27F-2FE5-46F7-96EB-3BD848C3AA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C913F27F-2FE5-46F7-96EB-3BD848C3AA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C913F27F-2FE5-46F7-96EB-3BD848C3AA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
