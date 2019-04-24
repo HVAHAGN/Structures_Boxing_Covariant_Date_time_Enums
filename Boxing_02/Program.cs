@@ -12,6 +12,7 @@ namespace Boxing_02
         void Method();
     }
 
+
     struct MyStruct : IInterface
     {
         public void Method()
