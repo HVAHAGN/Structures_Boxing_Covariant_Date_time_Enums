@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariant_04", "Covariant_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariant_05", "Covariant_05\Covariant_05.csproj", "{BB60ED22-E068-4536-8ED8-734F20E64224}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime_06", "DateTime_06\DateTime_06.csproj", "{5EDA2850-BFB3-4BC2-876D-4A80BBECD966}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BB60ED22-E068-4536-8ED8-734F20E64224}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB60ED22-E068-4536-8ED8-734F20E64224}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB60ED22-E068-4536-8ED8-734F20E64224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDA2850-BFB3-4BC2-876D-4A80BBECD966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDA2850-BFB3-4BC2-876D-4A80BBECD966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDA2850-BFB3-4BC2-876D-4A80BBECD966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDA2850-BFB3-4BC2-876D-4A80BBECD966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
